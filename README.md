@@ -110,7 +110,7 @@ backend/ml_models/
 
 | Home Page                 | Disease Prediction              |
 | ------------------------- | ------------------------------- |
-| ![](screenshots/home.png) | ![](screenshots/prediction.png) |
+| ![](screenshots/Home.png) | ![](screenshots/Prediction.png) |
 
 ---
 
