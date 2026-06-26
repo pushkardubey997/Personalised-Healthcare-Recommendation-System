@@ -107,7 +107,6 @@ backend/ml_models/
 
 ## 📸 Screenshots
 
-Add screenshots here after uploading them.
 
 | Home Page                 | Disease Prediction              |
 | ------------------------- | ------------------------------- |
